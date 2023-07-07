@@ -1,5 +1,5 @@
 IP: 158.160.66.207;
 name_taski: https://bankais1stsite.sytes.net/;
-name_kittygram: https://bankbankai2ndsite.hopto.org/;
+name_kittygram: https://bankai2ndsite.hopto.org/;
 login: admin;
 password: admin;
