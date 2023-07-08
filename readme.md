@@ -161,4 +161,4 @@
 - перезагрузить конфигурацию Nginx `sudo systemctl reload nginx`
 
 ## Автор
-Валерий Осодоев - [GitHub](https://github.com/ValeriiOsodoev)
+Байбанов Эльдар - [GitHub](https://github.com/BankaiSS)
